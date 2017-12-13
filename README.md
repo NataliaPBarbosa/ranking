@@ -6,6 +6,6 @@
 	<p><b>/cadastrar:</b> Página para cadastro de novos participantes</p>
 	<hr>
 	<h4>Ferramentas Utilizadas</h4>
-	<a href="https://jquery.com/">jQuery</a>
-	<a href="https://limonte.github.io/sweetalert2/">SweetAlert2</a>
-	<a href="https://codeigniter.com/">Codeigniter</a>
+	<a href="https://jquery.com/" title="jQuery">jQuery</a>
+	<a href="https://limonte.github.io/sweetalert2/" title="SweetAlert2">SweetAlert2</a>
+	<a href="https://codeigniter.com/" title="Codeigniter">Codeigniter</a>
