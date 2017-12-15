@@ -144,7 +144,7 @@ class Principal extends CI_Controller {
 					if ($this->geral->update_participante($post, $id)) {
 						$this->session->set_flashdata("cadastro", "<h4 class='success'>Participante atualizado com sucesso</h4>");
 
-						$this->image_lib->crop();
+						//$this->image_lib->crop();
 						redirect(base_url()."listagem");
 					}else{
 						$this->session->set_flashdata("cadastro", "<h4 class='error'>Erro ao atualizar participante, tente novamente!</h4>");
